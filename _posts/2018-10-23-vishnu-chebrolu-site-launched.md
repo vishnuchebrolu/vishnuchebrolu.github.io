@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Vishnu Chebrolu, Horrible Cop, Launches Site"
+title: "Vishnu Chebrolu, Launches Site"
 date: 2018-10-23
 ---
 
